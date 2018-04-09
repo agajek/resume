@@ -1,0 +1,45 @@
+- experience:
+  role: Software Developer
+  time: February 2017 - October 2017
+  company: Contactis
+  details: 
+    - Reworked infrastructure and workflow procedures
+    - Introduced Cats for better functional programming support
+    - Implemented in two weeks MVP for a major client
+- experience:
+  role: Team Leader
+  time: April 2016 - November 2016
+  company: SoInteractive
+  details: 
+    - Worked out and conducted recruitment process for Scala developer positions
+    - Worked closely with PMs and BAs to plan project progression
+    - Lead cooperation of three teams for two production deploymsents
+    - Trained team to take bigger responsibility for product
+- experience:
+  role: Scala Developer / DevOps
+  time: January 2016 - November 2016
+  company: SoInteractive
+  details: 
+    - Prepared project for production environment
+    - Optimized 4x the throughput of the main service
+    - Made the process of data migration from Java system to Akka and Event Sourcing 10x faster
+    - Improved automatic delivery process
+
+- experience: 
+  role: Junior Scala Developer
+  time: May 2015 - December 2015
+  company: SoInteractive
+  details: 
+    - Introduced Akka Cluster Sharding to the core service
+    - Discovered and fixed memory leaks
+    - Restructurized tests' code and got rid of flaky tests
+    - Presented some Functional Programming concepts that increased code quality
+
+- experience: 
+  role: Junior Java Developer
+  time: June 2014 - April 2015
+  company: Smart4Aviation
+  details: 
+    - Introduced IntelliJ IDEA to team using mostly Eclipse
+    - Dramatically improved quality eg. by introducing Guava's Optional
+    - Proposed restructurization code organization in project

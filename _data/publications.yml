@@ -1,0 +1,11 @@
+intro: "Publications which I co-authored as a part of my Master Thesis"
+publications:
+  - paper:
+    title: "Serverless execution of scientific workflows: Experiments with HyperFlow, AWS Lambda and Google Cloud Functions"
+    authors: M. Malawski, A. Gajek, A. Zima, B. Balis, and K. Figiela
+    conference: Future Generation Computer Systems, 04-Nov-2017, 10.1016/j.future.2017.10.029
+  - paper:
+    title: Benchmarking Heterogeneous Cloud Functions
+    authors: M. Malawski, K. Figiela, A. Gajek, and A. Zima
+    conference: "Euro-Par 2017: Parallel Processing Workshops, Lecture Notes in Computer Science, vol 10659, 2018, pp. 415–426."
+  

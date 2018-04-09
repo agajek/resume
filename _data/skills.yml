@@ -1,0 +1,27 @@
+- skill:
+  name: Scala
+  level: 100%
+- skill:
+  name: Akka
+  level: 100%
+- skill:
+  name: Spark
+  level: 60%
+- skill:
+  name: Functional Programming
+  level: 100%
+- skill:
+  name: OOP
+  level: 100%
+- skill:
+  name: JavaScript
+  level: 30%
+- skill:
+  name: React
+  level: 30%
+- skill:
+  name: Docker
+  level: 60%
+- skill:
+  name: CQRS + ES
+  level: 100%
