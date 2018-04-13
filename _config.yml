@@ -16,9 +16,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Adam Gajek
 tagline: Scala Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Software Developer who interests span from \"DevOpsing\" and thinking in architecture terms through development
-          of good quality backend code that delivers customer value and is easy to interact with to (much less) doing frontend
-          stuff."
+summary: 
 
 #sidebar links
 email: adamgajek93@gmail.com
